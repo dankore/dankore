@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-I am a self-taught software engineer who specializes in responsive web designs. Since November 2018, I have been working part-time for my internet startup, Home Away From Home, as a Software Engineer and Head of Marketing. 
+- I have shipped software that have been used around the world. 
+- I am a self-taught software engineer who specializes in responsive web designs. 
+- My design work have been seen more 13 million times and shared over 231,674 times.
+- 
 
-We grew the startup to 4,000 unique visits and 400,000 SSL requests a month.
+## I'm
+- ⚡ Actively looking for my next role with a company that fits.
+- 🔭 Working on [My Nigerian Projects](https://mynigerianprojects.com).
+- 🌱 Learning the C programming language through embedded devices.
 
-I also tinker with designs. My Facebook Profile Frames have more than 13 million impressions and 231,674* shares. 
-
-- ⚡ Actively looking for my next role with a company that fits
-- 🔭 I’m currently working on [My Nigerian Projects](https://mynigerianprojects.com)
-- 🌱 I’m currently learning the C programming language
-- 📫 How to reach me: adamu.dankore@gmail.com
+## Contact me
+- 📫 @ adamu.dankore@gmail.com
 
