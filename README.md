@@ -10,6 +10,6 @@
 - 🔭 Working on [My Nigerian Projects](https://mynigerianprojects.com).
 - 🌱 Learning the C programming language through embedded devices.
 
-## Contact me
-- 📫 @ adamu.dankore@gmail.com
+## 📫 Contact me
+-  @ adamu.dankore@gmail.com
 
