@@ -1,3 +1,6 @@
+<img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" alt="welcome" height="200"/>
+
+
 ### Hi there 👋
 
 - I have shipped software that have been used around the world. 
