@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - I have shipped software that have been used around the world. 
 - I am a self-taught software engineer who specializes in responsive web designs. 
