@@ -9,7 +9,7 @@
 
 ### I'm
 - ⚡ Actively looking for my next role with a company that fits.
-- 🔭 Working on [My Nigerian Projects](https://mynigerianprojects.com).
+- 🔭 Working on [Harnak Spices](https://harnak.netlify.app).
 - 🌱 Learning the C programming language by building embedded devices.
 
 ### 📫 Contact me @
