@@ -3,15 +3,13 @@
 
 ### 👋 Hi there 
 
-- 🚀 I have shipped maintainable, secure, and flexible software that have been used around the world. 
-- 🧑🏽‍💻 I am a self-taught software engineer who specializes in responsive web designs. 
-- ❤️ My design works have been seen more 13 million times and shared over 231,674 times.
+- 🚀  I have shipped maintainable, secure, and flexible software that have been used around the world. 
+- 🧑🏽‍💻  I am a self-taught full stack software engineer with a knack for the best user experiences on a website. 
+- ❤️ My design works have been seen more 13 million times and shared over 231,000 times.
 
-### 🧍 I'm
-- ⚡ Web Developer at [thegazette.com](https://www.thegazette.com/)
-- ⚡ Former Software/Hardware Engineer at Letter B LLC.
-- 🔭 Working on [John Sido Musical](https://github.com/dankore/frontend-john-sido-music).
-- 🌱 Learning the C programming language by building embedded devices.
+### 🧍 I
+- ⚡ am a Web Developer at [thegazette.com](https://www.thegazette.com/)
+- 🌱 make open source software on my free time - [Built with Tailwind CSS](https://chrome.google.com/webstore/detail/built-with-tailwind-css/jlhanklencdaapbcmolakoogadjbkbcn?hl=en&authuser=0), [Deploy to Caprover using GitHub Actions](https://github.com/dankore/deploy-to-caprover-using-github-actions), and Kadocoin
 
 ### 📫 Contact me @
 -  adamu.dankore@gmail.com
