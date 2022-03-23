@@ -11,6 +11,9 @@
 - ⚡ am a Web Developer at [thegazette.com](https://www.thegazette.com/)
 - 🌱 make open source software on my free time - [Built with Tailwind CSS](https://chrome.google.com/webstore/detail/built-with-tailwind-css/jlhanklencdaapbcmolakoogadjbkbcn?hl=en&authuser=0), [Deploy to Caprover using GitHub Actions](https://github.com/dankore/deploy-to-caprover-using-github-actions), and Kadocoin
 
+### 🧍 I
+- sometimes contrinute to Stack Overflow - [Check it out](https://stackoverflow.com/users/10945477/adamu-dankore-muhammad)
+
 ### 📫 Contact me @
 -  adamu.dankore@gmail.com
 
