@@ -15,7 +15,6 @@
 - 🚀  shipped maintainable, secure, and flexible software that have been used around the world. 
 - 🧑🏽‍💻  am a self-taught full stack software engineer with a knack for the best user experiences on a website. 
 - ❤️ design; over 13 million impressions and 231,000 shares.
-- ⚡ am a Web Developer at [sourceallies.com](https://www.sourceallies.com/).
 - 🌱 make open source software on my free time. Examples - [Built with Tailwind CSS](https://chrome.google.com/webstore/detail/built-with-tailwind-css/jlhanklencdaapbcmolakoogadjbkbcn?hl=en&authuser=0), [Deploy to Caprover using GitHub Actions](https://github.com/dankore/deploy-to-caprover-using-github-actions), [Kadocoin](https://github.com/kadocoin/kadocoin-multi-wallet-api) and more.
 
 
